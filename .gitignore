@@ -1,0 +1,14 @@
+# Secrets - never commit
+.env
+
+# Outputs (personal project data)
+*.xlsx
+*.csv
+probe_report.json
+last_run.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
